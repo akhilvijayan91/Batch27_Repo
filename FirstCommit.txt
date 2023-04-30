@@ -1,5 +1,6 @@
 Sample data 
 Test Data
 Dummy data
+New line
 Conflict Data
 last day changes

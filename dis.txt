@@ -1,0 +1,268 @@
+{
+        "_id" : ObjectId("6434f44e2bb18d113f8bebdf"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509039030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"60\",\"eventCreationTime\":\"2023-04-11T11:16:54.490+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509039030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+{
+        "_id" : ObjectId("6434f4512bb18d113f8bebe0"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509040030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"60\",\"eventCreationTime\":\"2023-04-11T11:16:57.669+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509040030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4602bb18d113f8bebe1"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509041030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:17:13.054+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509041030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f46d2bb18d113f8bebe2"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509042030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"12\",\"eventCreationTime\":\"2023-04-11T11:17:25.897+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509042030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4772bb18d113f8bebe3"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509043030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"9\",\"eventCreationTime\":\"2023-04-11T11:17:36.447+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509043030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+{
+        "_id" : ObjectId("6434f4772bb18d113f8bebe4"),
+        "eventCode" : "BACK_TO_SENDER",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509043030\",\"eventCode\":\"BACK_TO_SENDER\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:17:36.447+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509043030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+
+{
+        "_id" : ObjectId("6434f4942bb18d113f8bebe7"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509203037\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"83\",\"eventCreationTime\":\"2023-04-11T11:18:05.433+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509203037",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+
+{
+        "_id" : ObjectId("6434f4a32bb18d113f8bebe8"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509204037\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"8\",\"eventCreationTime\":\"2023-04-11T11:18:20.437+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509204037",
+        "responseCode" : "201",
+        "status" : "0"
+}
+{
+        "_id" : ObjectId("6434f4a32bb18d113f8bebe9"),
+        "eventCode" : "BACK_TO_SENDER",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509204037\",\"eventCode\":\"BACK_TO_SENDER\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:18:20.437+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509204037",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+{
+        "_id" : ObjectId("6434f4b52bb18d113f8bebea"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509045030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"89\",\"eventCreationTime\":\"2023-04-11T11:18:38.082+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509045030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4c62bb18d113f8bebeb"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958502535031\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"63\",\"eventCreationTime\":\"2023-04-11T11:18:55.382+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958502535031",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4d72bb18d113f8bebec"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509046030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"73\",\"eventCreationTime\":\"2023-04-11T11:19:11.875+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509046030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4e22bb18d113f8bebed"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509047030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"6\",\"eventCreationTime\":\"2023-04-11T11:19:23.614+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509047030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f4eb2bb18d113f8bebee"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509048030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"85\",\"eventCreationTime\":\"2023-04-11T11:19:32.310+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509048030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f5162bb18d113f8bebef"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958439109247\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"19\",\"eventCreationTime\":\"2023-04-11T11:20:15.025+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958439109247",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f52e2bb18d113f8bebf0"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509049030\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"71\",\"eventCreationTime\":\"2023-04-11T11:20:39.442+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509049030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f53c2bb18d113f8bebf1"),
+        "eventCode" : "IRREGULARITY",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958439110247\",\"eventCode\":\"IRREGULARITY\",\"eventSubCode\":\"81\",\"eventCreationTime\":\"2023-04-11T11:20:53.373+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958439110247",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f8ca2bb18d113f8bebf2"),
+        "eventCode" : "CUN",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509050030\",\"eventCode\":\"CUN\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:01.992+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509050030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f8cb2bb18d113f8bebf3"),
+        "eventCode" : "CUN",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509051030\",\"eventCode\":\"CUN\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:04.489+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509051030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f8da2bb18d113f8bebf4"),
+        "eventCode" : "TR",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509052030\",\"eventCode\":\"TR\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:19.151+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509052030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+{
+        "_id" : ObjectId("6434f8e12bb18d113f8bebf5"),
+        "eventCode" : "TR",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958502536031\",\"eventCode\":\"TR\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:26.576+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958502536031",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+
+{
+        "_id" : ObjectId("6434f8ef2bb18d113f8bebf6"),
+        "eventCode" : "LDI",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509053030\",\"eventCode\":\"LDI\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:40.401+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509053030",
+        "responseCode" : "201",
+        "status" : "0"
+}
+
+{
+        "_id" : ObjectId("6434f8f22bb18d113f8bebf7"),
+        "eventCode" : "LDI",
+        "retryCounter" : 0,
+        "request" : "{\"itemCode\":\"323299901059958509054030\",\"eventCode\":\"LDI\",\"eventSubCode\":\"1\",\"eventCreationTime\":\"2023-04-11T11:36:42.795+05:30\",\"userMatricule\":\"56223725\",\"unitCep\":\"10000020\"}",
+        "createdDate" : "20230411",
+        "itemCode" : "323299901059958509054030",
+        "responseCode" : "201",
+        "status" : "0"
+}
